@@ -12,6 +12,8 @@ XML files: [train.xml]();  [dev.xml]();  [test.xm]().
 
 [word embedding]()
 
+New question is this code should be ran using GPU for big data. 
+
 # OVERVIEW
 
 This code implements a convolutional neural network architecture for learning to match question and answer sentences described in the paper:
