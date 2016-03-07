@@ -1,3 +1,19 @@
+Note: 
+(1). This code must be running in the native linux or unix OS. The OS in virtural mathcine is not work.
+(2). The DEPENDENCIES packages can be installed by downloading anaconda (https://www.continuum.io/downloads). 
+    -When you finishing install, restart the terminal
+    -install the other packages by typing the code line in terminal, for example "pip install tqdm"
+    
+Above things take me about 1 month.
+
+# DATA set for me
+XML files: 
+train.xml:
+dev.xml:
+test.xml:
+
+word embedding:
+
 # OVERVIEW
 
 This code implements a convolutional neural network architecture for learning to match question and answer sentences described in the paper:
